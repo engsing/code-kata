@@ -1,4 +1,4 @@
-Supermarket Pricing
+# Supermarket Pricing
 
 ## Background
 Bob is a proud owner of Bob-A-Mart, a supermarket located in a small town in Singapore. 
